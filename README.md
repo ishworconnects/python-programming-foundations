@@ -39,5 +39,5 @@ python loops.py
 ```
 
 Some scripts ask for keyboard input, so they work best from a terminal instead
-of a notebook.
+of a notebook .
 
