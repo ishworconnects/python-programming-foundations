@@ -4,7 +4,7 @@ This repo is a collection of small Python programs I wrote while learning the
 basics. It is less of a single project and more of a practice space for trying
 out core Python ideas one file at a time.
 
-## What I'm Practicing
+## Here is what I learnt
 
 - printing output and working with variables
 - defining and calling functions
